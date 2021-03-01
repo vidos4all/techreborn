@@ -3,10 +3,10 @@
   "modid": "techreborn",
   "name": "Tech Reborn",
   "description": "Just another technical mod",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+  "version": "0.1 Alpha",
+  "mcversion": "1.12",
   "url": "https://github.com/vidos4all/techreborn",
   "updateUrl": "",
-  "authorList": ["Flame Arcade"],
+  "authorList": ["Flame Arcade"]
 }
 ]
