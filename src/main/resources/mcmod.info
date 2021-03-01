@@ -1,0 +1,12 @@
+[
+{
+  "modid": "techreborn",
+  "name": "Tech Reborn",
+  "description": "Just another technical mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/vidos4all/techreborn",
+  "updateUrl": "",
+  "authorList": ["Flame Arcade"],
+}
+]
